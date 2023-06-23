@@ -1,0 +1,24 @@
+﻿  Client_Company.cpp
+D:\TRUONG TAN DAT\DAI HOC DUNG HOC DAI\Junior_2\OOP\Seminar\21120041_21120050_21120058_21120070\Source Code\Composite\Source code\Composite\Date.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\TRUONG TAN DAT\DAI HOC DUNG HOC DAI\Junior_2\OOP\Seminar\21120041_21120050_21120058_21120070\Source Code\Composite\Source code\Composite\Employee.h(60,19): warning C4244: 'return': conversion from '__int64' to 'double', possible loss of data
+D:\TRUONG TAN DAT\DAI HOC DUNG HOC DAI\Junior_2\OOP\Seminar\21120041_21120050_21120058_21120070\Source Code\Composite\Source code\Composite\Client_Company.cpp(124,14): warning C4305: 'argument': truncation from 'int' to '_Elem'
+          with
+          [
+              _Elem=char
+          ]
+D:\TRUONG TAN DAT\DAI HOC DUNG HOC DAI\Junior_2\OOP\Seminar\21120041_21120050_21120058_21120070\Source Code\Composite\Source code\Composite\Client_Company.cpp(124,9): warning C4309: 'argument': truncation of constant value
+  Component_HR.cpp
+D:\TRUONG TAN DAT\DAI HOC DUNG HOC DAI\Junior_2\OOP\Seminar\21120041_21120050_21120058_21120070\Source Code\Composite\Source code\Composite\Date.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Composite_Office.cpp
+D:\TRUONG TAN DAT\DAI HOC DUNG HOC DAI\Junior_2\OOP\Seminar\21120041_21120050_21120058_21120070\Source Code\Composite\Source code\Composite\Date.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\TRUONG TAN DAT\DAI HOC DUNG HOC DAI\Junior_2\OOP\Seminar\21120041_21120050_21120058_21120070\Source Code\Composite\Source code\Composite\Employee.h(60,19): warning C4244: 'return': conversion from '__int64' to 'double', possible loss of data
+  Date.cpp
+D:\TRUONG TAN DAT\DAI HOC DUNG HOC DAI\Junior_2\OOP\Seminar\21120041_21120050_21120058_21120070\Source Code\Composite\Source code\Composite\Date.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Leaf_Employee.cpp
+D:\TRUONG TAN DAT\DAI HOC DUNG HOC DAI\Junior_2\OOP\Seminar\21120041_21120050_21120058_21120070\Source Code\Composite\Source code\Composite\Date.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\TRUONG TAN DAT\DAI HOC DUNG HOC DAI\Junior_2\OOP\Seminar\21120041_21120050_21120058_21120070\Source Code\Composite\Source code\Composite\Employee.h(60,19): warning C4244: 'return': conversion from '__int64' to 'double', possible loss of data
+  Main_CompositeDesignPattern.cpp
+D:\TRUONG TAN DAT\DAI HOC DUNG HOC DAI\Junior_2\OOP\Seminar\21120041_21120050_21120058_21120070\Source Code\Composite\Source code\Composite\Date.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\TRUONG TAN DAT\DAI HOC DUNG HOC DAI\Junior_2\OOP\Seminar\21120041_21120050_21120058_21120070\Source Code\Composite\Source code\Composite\Employee.h(60,19): warning C4244: 'return': conversion from '__int64' to 'double', possible loss of data
+  Generating Code...
+  Composite.vcxproj -> D:\TRUONG TAN DAT\DAI HOC DUNG HOC DAI\Junior_2\OOP\Seminar\21120041_21120050_21120058_21120070\Source Code\Composite\Source code\x64\Debug\Composite.exe
